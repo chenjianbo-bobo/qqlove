@@ -1,4 +1,4 @@
-liulu_age=30
+:liulu_age=30
 chenjianbo_age=18
 weiyuanwei_age=25
 quanfengfeng_age=0
